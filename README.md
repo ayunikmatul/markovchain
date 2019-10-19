@@ -10,11 +10,11 @@ Keterangan :<br>
 	Moving Avarage : Harga Saham Penutupan pada tanggal sebelumnya (t-1).<br>
 	Delta Price : Selisih antara Moving Avarage – Close. <br>
 	State dan State Description : Kode status saham dan penjelasannya ada 5 kategori yaitu :<br>
-	1 : Naik Drastis
-	2 : Naik
-	3 : Tetap
-	4 : Turun
-	5 : Turun Drastis
+	1 : Naik Drastis <br>
+	2 : Naik <br>
+	3 : Tetap <br>
+	4 : Turun <br>
+	5 : Turun Drastis <br>
 Sedangkan fungsi yang digunakan untuk kategorisasi adalah 
 <p align="left">
   <img src="https://github.com/ayunimatulf/markovchain/blob/master/function.PNG">
