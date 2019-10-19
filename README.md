@@ -1,4 +1,4 @@
-# markovchain
+# markovchain untuk menghitung peluang naik turun saham
 Penentuan Peluang Naik Turun Harga Saham Harian 1 Interval dengan Simulasi Markov Chain menggunakan MATLAB 2015
 
 Data yang digunakan berasal dari data Yahoo Finance dan contoh yang digunakan merupakan data saham Bank BCA periode 6 November 2017 hingga 6 November 2018 dengan detail data yang diambil sebagai berikut :<br>
