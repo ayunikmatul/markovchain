@@ -18,29 +18,5 @@ Keterangan :<br>
 Sedangkan fungsi yang digunakan untuk kategorisasi adalah 
 <p align="left">
   <img src="https://github.com/ayunimatulf/markovchain/blob/master/function.PNG">
-</p>
-# Metodologi
-1.  Memasukkan input berupa data excel seperti tercantum diatas beserta table fungsi untuk kategorisasi kondisi seperti berikut : <br>
-<p align="center">
-  <img src="https://github.com/ayunimatulf/markovchain/blob/master/fungsi_kategorisasi.PNG">
-</p
-2.  Menghitung banyak data dalam setiap transisi kondisi kemudian membuat matriks P dengan menghitung peluang setiap kondisi dimana setiap kolom memiliki ∑▒P=1
-<p align="center">
-  <img src="https://github.com/ayunimatulf/markovchain/blob/master/matriks_transisi.PNG">
-</p>
-3. Menghitung banyak data dalam setiap transisi kondisi kemudian dihitung peluangnya dengan setiap kolom memiliki ∑▒P=1
-4. Menentukan status kondisi hari ini untuk melihat peluang keesokan harinya maka digunakan matriks P namun jika mencari peluang 3 hari kemudian maka maka digunakan matriks P^3 dan seterusnya. 
+</p><br>
 
-### Tampilan GUI
-* Menu Upload Data
-<p align="center">
-  <img src="https://github.com/ayunimatulf/markovchain/blob/master/menu_upload.png">
-</p>
-* Menu Matriks Transisi
-<p align="center">
-  <img src="https://github.com/ayunimatulf/markovchain/blob/master/menu_matriks_transisi.png">
-</p>
-* Menu Prediksi Peluang
-<p align="center">
-  <img src="https://github.com/ayunimatulf/markovchain/blob/master/menu_predisi_peluang.png">
-</p>
