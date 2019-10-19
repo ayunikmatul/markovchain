@@ -19,13 +19,12 @@ Sedangkan fungsi yang digunakan untuk kategorisasi adalah
 <p align="left">
   <img src="https://github.com/ayunimatulf/markovchain/blob/master/function.PNG">
 </p>
-### Metodologi
-Tahap-tahap penghitungan yang digunakan adalah sebagai berikut
-1. Memasukkan input berupa data excel seperti tercantum diatas beserta table fungsi untuk kategorisasi kondisi seperti berikut : <br>
+# Metodologi
+1.  Memasukkan input berupa data excel seperti tercantum diatas beserta table fungsi untuk kategorisasi kondisi seperti berikut : <br>
 <p align="center">
   <img src="https://github.com/ayunimatulf/markovchain/blob/master/fungsi_kategorisasi.PNG">
 </p
-2. Menghitung banyak data dalam setiap transisi kondisi kemudian membuat matriks P dengan menghitung peluang setiap kondisi dimana setiap kolom memiliki ∑▒P=1
+2.  Menghitung banyak data dalam setiap transisi kondisi kemudian membuat matriks P dengan menghitung peluang setiap kondisi dimana setiap kolom memiliki ∑▒P=1
 <p align="center">
   <img src="https://github.com/ayunimatulf/markovchain/blob/master/matriks_transisi.PNG">
 </p>
